@@ -1,0 +1,10 @@
+{
+  "name": "轻盈日记 · 减脂记录器",
+  "short_name": "轻盈日记",
+  "description": "记录饮食、运动与每日热量收支。",
+  "start_url": "./fit-note.html",
+  "display": "standalone",
+  "background_color": "#fbf8f2",
+  "theme_color": "#fbf8f2",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
